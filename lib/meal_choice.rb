@@ -7,3 +7,5 @@ end
 veg1("carrots")
 veg2("lentils")
 protein("chicken")
+
+meal_choice("carrots", "lentils", "chicken")

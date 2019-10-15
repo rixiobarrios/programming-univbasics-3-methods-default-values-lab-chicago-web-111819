@@ -4,6 +4,6 @@ def meal_choice(veg1, veg2, protein="meat")
   puts "A plate of #{protein} with #{veg1} and #{veg2}."
 end
 
-veg1 = Carrots
-veg2 = Lentils
-protein = chicken
+veg1(Carrots)
+veg2(Lentils)
+protein(chicken)

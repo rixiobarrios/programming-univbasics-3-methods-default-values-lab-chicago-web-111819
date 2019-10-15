@@ -8,4 +8,4 @@ veg1("broccoli")
 veg2("macaroni")
 protein("tofu")
 
-#meal_choice("carrots", "lentils", "chicken")
+meal_choice("broccoli", "macaroni")
